@@ -1,7 +1,9 @@
 # Physics-Informed-Neural-Network-PINNs---TF-2.0
 
-Implementation in TensorFlow 2.0 of different examples put together by Raissi et al. on their original publication about Physics Informed Neural Networks.
+Physics Informed Neural Network for 1-D Burgers' equation implemented using the Sequential API in Tensorflow 2.0. Originally, the code was implemented by Raissi et. al. using Tensorflow 1.0 which is slightly difficult to interpret for people without a coding background. Tensorflow 2.0 comes embedded with Keras, a High Level API that makes Machine Learning user friendly. There are three ways of implementation in Tensorflow 2.0
 
-By designing a custom loss function for standard fully-connected deep neural networks, enforcing the known laws of physics governing the different setups, their work showed that it was possible to either solve or discover with surprisingly good accuracy Partial Differential Equations from noisy and scarce data. The very kind that is widespread in real-life applications.
+1. Sequential API
+2. Functional API
+3. Sub-classed API
 
-Don’t forget the --recursive flag while cloning, in order to fetch the experiments data put together by Raissi et al:
+These are mentioned in the order to complexity.
