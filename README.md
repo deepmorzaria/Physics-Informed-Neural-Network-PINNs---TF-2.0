@@ -11,9 +11,9 @@ Primarily, there are three ways of implementation using Tensorflow 2.0
 These are mentioned in the order to complexity. For the problem at hand, Sequential API is sufficient. 
 
 # Citation
- @article{raissi2017physicsI,
-      title={Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential Equations},
-      author={Raissi, Maziar and Perdikaris, Paris and Karniadakis, George Em},
-      journal={arXiv preprint arXiv:1711.10561},
-      year={2017}
+ @article{raissi2017physicsI,\
+      title={Physics Informed Deep Learning (Part I): Data-driven Solutions of Nonlinear Partial Differential Equations},\
+      author={Raissi, Maziar and Perdikaris, Paris and Karniadakis, George Em},\
+      journal={arXiv preprint arXiv:1711.10561},\
+      year={2017}\
     }
