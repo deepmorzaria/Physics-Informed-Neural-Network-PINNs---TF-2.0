@@ -18,6 +18,8 @@ The code has been implemented using Google Colab as it offers GPU as a runtime o
 
 # Results
 
+https://github.com/deepmorzaria/Physics-Informed-Neural-Network-PINNs---TF-2.0/issues/2#issue-686213509
+
 <img width="896" alt="Screen Shot 2020-08-26 at 3 59 20 PM" src="https://user-images.githubusercontent.com/23555180/91294117-aa924c00-e7b6-11ea-8e7e-b1b3ba93be5c.png">
 
 
