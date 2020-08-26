@@ -18,6 +18,9 @@ The code has been implemented using Google Colab as it offers GPU as a runtime o
 
 # Results
 
+<img width="896" alt="Screen Shot 2020-08-26 at 3 59 20 PM" src="https://user-images.githubusercontent.com/23555180/91294117-aa924c00-e7b6-11ea-8e7e-b1b3ba93be5c.png">
+
+
 
 # Citation
  @article{raissi2017physicsI,\
